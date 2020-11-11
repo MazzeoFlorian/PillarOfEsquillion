@@ -1,4 +1,4 @@
-package Esquil;
+package esquil;
 
 public abstract class Scene {
 

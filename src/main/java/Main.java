@@ -1,5 +1,5 @@
 //Imports
-import Esquil.Window;
+import esquil.Window;
 
 //Main method
 public class Main {

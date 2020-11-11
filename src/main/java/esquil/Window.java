@@ -1,4 +1,4 @@
-package Esquil;
+package esquil;
 
 import org.lwjgl.Version;
 import org.lwjgl.glfw.GLFWErrorCallback;

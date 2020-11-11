@@ -1,4 +1,4 @@
-package Esquil;
+package esquil;
 
 public class LevelScene extends Scene {
 
